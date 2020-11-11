@@ -1,0 +1,22 @@
+{
+  "name": "priv-flask-dashboard-gradient-pro",
+  "mastertemplate": "boilerplate-code-flask-dashboard",
+  "version": "1.0.1",
+  "description": "Template project - Flask Boilerplate Code",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/app-generator/priv-flask-dashboard-gradient-pro"
+  },
+  "bugs": {
+      "url": "https://github.com/app-generator/flask-dashboard-gradient-pro/issues",
+      "email": "support@appseed.us"
+  },
+  "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
+  "engines": {
+      "node": ">=10.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
